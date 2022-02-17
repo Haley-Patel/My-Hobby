@@ -1,0 +1,28 @@
+.menu{
+    text-align: center;
+    background:linear-gradient;
+}
+
+body{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    
+}
+.links{
+    list-style: none;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+#favorite_book{
+    background-color: cornflowerblue;
+    
+}
+
+#about{
+    background-color: fuchsia;
+}
